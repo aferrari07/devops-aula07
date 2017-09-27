@@ -20,3 +20,7 @@ jogar('X', 1, 1)
 print(tabuleiro())
 if __name__ == "__main__":
 main(
+
+  
+  
+  
